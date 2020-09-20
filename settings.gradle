@@ -1,0 +1,3 @@
+include ':LogModule'
+include ':app'
+rootProject.name = "UtilApp"
